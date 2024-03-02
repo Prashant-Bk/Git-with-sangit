@@ -1,2 +1,6 @@
+#python code runner
 tempCodeRunnerFile.py
+#c exe files
 *.exe
+#git ignore
+.gitignore
